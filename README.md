@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
 <h3 align="center">A passionate frontend developer from Cusco, Perú.</h3>
 
-- 🔭 I’m currently working on [EduTech](https://github.com/paolorossig/edu-tech)
+- 🔭 I’m currently working on SporTech [SporTech Cli](https://github.com/FernandoCalla/sportech-cli) [SporTech API](https://github.com/FernandoCalla/sportech-api)
 
 - 🌱 I’m currently learning **Node and Express**
 
