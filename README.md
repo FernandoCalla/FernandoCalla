@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on SporTech [SporTech Cli](https://github.com/FernandoCalla/sportech-cli) [SporTech API](https://github.com/FernandoCalla/sportech-api)
 
-- 🌱 I’m currently learning **Node, Express, Nest js y Next js**
+- 🌱 I’m currently learning **Node, Express, Nest js and Next js**
 
 - 💬 Ask me about **JavaScript and React**
 
